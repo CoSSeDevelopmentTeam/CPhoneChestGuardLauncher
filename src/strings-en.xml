@@ -1,0 +1,10 @@
+<strings>
+    <string name="prefix">System>> </string>
+    <string name="enabled">When you touch the target chest, the control panel will open. Please deactivate it from the LAFUN app when you are done.</string>
+    <string name="disabled">Disabled edit mode for chests.</string>
+    <!-- MainActivity -->
+    <string name="title">ChestGuard</string>
+    <string name="content">The function was ported to "Tools" and this application was discontinued.</string>
+    <string name="button1">Close</string>
+    <string name="button2">Close</string>
+</strings>

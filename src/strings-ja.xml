@@ -4,7 +4,7 @@
     <string name="disabled">チェストの編集モードを無効化しました。</string>
     <!-- MainActivity -->
     <string name="title">ChestGuard</string>
-    <string name="content">チェスト保護の内容確認や編集するモードを有効化・無効化します。操作が終了したら無効化してください。</string>
-    <string name="button1">保護モードの有効化/無効化</string>
+    <string name="content">機能を「Tools」に移植しこのアプリは廃止しました。</string>
+    <string name="button1">アプリを閉じる</string>
     <string name="button2">アプリを閉じる</string>
 </strings>

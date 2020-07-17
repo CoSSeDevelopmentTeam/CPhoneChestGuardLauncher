@@ -6,9 +6,8 @@
         <title>ChestGuard</title>
         <description>チェストの管理モードを起動するアプリ</description>
         <author>popkechupki</author>
-        <version>1.1.0</version>
+        <version>1.1.1</version>
         <mcbeversion>1.14</mcbeversion>
-        <icon>https://info.comorevi.net/images/favicon/logo_transparent.png</icon>
     </application>
 
     <permission type = "everyone" />
@@ -21,11 +20,11 @@
     <external-lang>
         <lang region="en">
             <title>ChestGuard</title>
-            <description>This is a application to enable/disable editing mode of ChestGuard.</description>
+            <description>The function was ported to "Tools" and this application was discontinued.</description>
         </lang>
         <lang region="ja">
             <title>チェストガード/ChestGuard</title>
-            <description>チェストの管理モードを有効化・無効化するアプリ</description>
+            <description>機能を「Tools」に移植しこのアプリは廃止しました。</description>
         </lang>
     </external-lang>
 </manifest>
