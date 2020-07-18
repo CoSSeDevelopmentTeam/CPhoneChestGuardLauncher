@@ -4,7 +4,7 @@
     <string name="disabled">Disabled edit mode for chests.</string>
     <!-- MainActivity -->
     <string name="title">ChestGuard</string>
-    <string name="content">The function was ported to "Tools" and this application was discontinued.</string>
+    <string name="content">The function was ported to "Tools" and this application was discontinued.&#x0A; You can uninstall this app from AppMarket.</string>
     <string name="button1">Close</string>
     <string name="button2">Close</string>
 </strings>
